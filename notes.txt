@@ -1,2 +1,4 @@
 Git is a distributed version control system.
+Git supports branches for parallel development.
 Git helps track changes in files.
+GitHub allows repositories to be shared online.
